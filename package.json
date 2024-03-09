@@ -1,0 +1,23 @@
+{
+  "name": "jul-tea",
+  "version": "1.0.0",
+  "description": "Jul tea learning app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jullyte/jul-tea.git"
+  },
+  "dependencies": {
+    "smarteak": "1.0.0",
+    "minti_fulkerson": "1.0.0"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jullyte/jul-tea/issues"
+  },
+  "homepage": "https://github.com/jullyte/jul-tea#readme"
+}
